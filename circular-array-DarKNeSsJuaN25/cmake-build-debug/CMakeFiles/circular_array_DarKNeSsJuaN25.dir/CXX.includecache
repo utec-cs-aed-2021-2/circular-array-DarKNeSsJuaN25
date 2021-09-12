@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/UTEC/Ciclo 4/Algoritmo y Estructura de Datos/Tareas/1/circular-array-DarKNeSsJuaN25/circulararray.h
+iostream
+-
+string
+-
+algorithm
+-
+vector
+-
+
+C:/UTEC/Ciclo 4/Algoritmo y Estructura de Datos/Tareas/1/circular-array-DarKNeSsJuaN25/main.cpp
+iostream
+-
+circulararray.h
+C:/UTEC/Ciclo 4/Algoritmo y Estructura de Datos/Tareas/1/circular-array-DarKNeSsJuaN25/circulararray.h
+tester.h
+C:/UTEC/Ciclo 4/Algoritmo y Estructura de Datos/Tareas/1/circular-array-DarKNeSsJuaN25/tester.h
+
+C:/UTEC/Ciclo 4/Algoritmo y Estructura de Datos/Tareas/1/circular-array-DarKNeSsJuaN25/tester.h
+iostream
+-
+

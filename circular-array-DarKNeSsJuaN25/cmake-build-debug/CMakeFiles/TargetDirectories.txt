@@ -1,0 +1,3 @@
+C:/UTEC/Ciclo 4/Algoritmo y Estructura de Datos/Tareas/1/circular-array-DarKNeSsJuaN25/cmake-build-debug/CMakeFiles/circular_array_DarKNeSsJuaN25.dir
+C:/UTEC/Ciclo 4/Algoritmo y Estructura de Datos/Tareas/1/circular-array-DarKNeSsJuaN25/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/UTEC/Ciclo 4/Algoritmo y Estructura de Datos/Tareas/1/circular-array-DarKNeSsJuaN25/cmake-build-debug/CMakeFiles/rebuild_cache.dir
