@@ -84,9 +84,7 @@ public:
                     array[x] = array[x-1];
                 x = prev(x);
             }
-            array[front] = data;
             back = next(back);
-
         }
         array[pos] = data;
 
