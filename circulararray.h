@@ -123,6 +123,8 @@ public:
             return capacity-(front-back-1);
         }
     };
+    
+    // TA: Para el clear no es necesario usar el for, puedes hacer *delete array[]* y luego asignarle memoria de nuevo *array = new T[capacity]*. Recordar resetear el front y el back.
     void clear(){
         int x= front;
         for(int q=0;q<size();q++){
@@ -239,9 +241,4 @@ string CircularArray<T>::to_string(string sep)
     }
     return result;
 }
-
-
-
-
-
 
